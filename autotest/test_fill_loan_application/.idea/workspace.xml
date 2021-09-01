@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7c68783-072a-4259-909c-d8249545298b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="7061e4b0-d18e-4696-90cb-736e01ba5959" />
+  <component name="ProjectId" id="1kMaDpWqUdkZghErcff3PKU9POl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anastasya\Documents\borrowlabs\autotest\test_fill_loan_application\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_fill_loan_application">
+    <configuration name="pytest for test_property_details.test_property_details" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test_fill_loan_application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_property_details.test_property_details&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fill_loan_application" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="test_fill_loan_application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Anastasya\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_property_details.test_property_details" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c68783-072a-4259-909c-d8249545298b" name="Default Changelist" comment="" />
+      <created>1605512798477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605512798477</updated>
+      <workItem from="1605512799802" duration="3999000" />
+      <workItem from="1605793069675" duration="14965000" />
+      <workItem from="1605953650495" duration="4981000" />
+      <workItem from="1606051312943" duration="12121000" />
+      <workItem from="1606140602435" duration="8293000" />
+      <workItem from="1606383700355" duration="13992000" />
+      <workItem from="1606593792611" duration="5220000" />
+      <workItem from="1606736342397" duration="8146000" />
+      <workItem from="1606810804451" duration="15865000" />
+      <workItem from="1607167027064" duration="13367000" />
+      <workItem from="1607352483583" duration="6290000" />
+      <workItem from="1607507168592" duration="9533000" />
+      <workItem from="1608287800788" duration="3000" />
+      <workItem from="1608672707503" duration="6000" />
+      <workItem from="1610390460250" duration="14000" />
+      <workItem from="1610559947985" duration="6198000" />
+      <workItem from="1610628104720" duration="4737000" />
+      <workItem from="1610702449651" duration="21000" />
+      <workItem from="1611149095820" duration="1119000" />
+      <workItem from="1612181861519" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="123" key="#Inspections" timestamp="1607172268683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="123" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1607172268683" />
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605513148376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605513148376" />
+    <state x="435" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606736370319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606736370319" />
+    <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1606595870089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606595870089" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1610655046271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610655046271" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1610655046271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610655046271" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1610655046271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610655046271" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1610655046271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610655046271" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605513182912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605513182912" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_fill_loan_application$pytest_for_test_property_details_test_property_details.coverage" NAME="pytest for test_property_details.test_property_details Coverage Results" MODIFIED="1606397340032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/test_fill_loan_application$pytest_in_test_fill_loan_application.coverage" NAME="pytest in test_fill_loan_application Coverage Results" MODIFIED="1610630934048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
